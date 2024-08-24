@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://devagnmaniya611:devagn@0611@todolist.r9hce.mongodb.net/?retryWrites=true&w=majority&appName=todolist",
+    "jwtSecret": "dyhyhyebhhvhsjhahjjgh06hjnuo"
+  }
