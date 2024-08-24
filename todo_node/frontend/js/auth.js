@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://todolist-uz9d.onrender.com/api';
 
 const authForm = document.getElementById('auth-form');
 const usernameInput = document.getElementById('username');
